@@ -10,7 +10,11 @@ Thanks for visiting!
 
 The website is a one-pager, with all the information ready loaded when the webpage is opened. The navigation bar at the top of the page will help you move around on the page, though this area is yet to be coded as we haven't learned this area of html yet. Feel free to read around!
 
-![Alt text](assets/images/screenshot_1.png "Screen Shot of navigation bar")
+SCreenshot of navigation bar: 
+![Alt text](assets/images/screenshot_1.png)
+
+Example of product: 
+![Alt text](assets/images/screenshot_2.png)
 
 ## Credits
 
