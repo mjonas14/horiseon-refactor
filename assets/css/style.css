@@ -20,10 +20,12 @@ body {
     font-size: 48px;
 }
 
+/* Changing colour of particular characters in title */
 .seo {
     color: #d9dcd6;
 }
 
+/* Formatting navigation bar and pushing to the right */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,6 +34,7 @@ body {
     font-size: 20px;
 }
 
+/* Removing list dots */
 .header nav ul {
     list-style-type: none;
 }
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* Formatting cover image */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +62,7 @@ p {
     background-position: center;
 }
 
+/* Formatting the main information section */
 .content {
     width: 75%;
     display: inline-block;
@@ -74,6 +79,7 @@ p {
     margin-left: 25px;
 }
 
+/* Formatting each box in the information section */
 .services {
     margin-bottom: 20px;
     padding: 50px;
@@ -92,6 +98,7 @@ p {
     font-size: 36px;
 }
 
+/* Formatting the aside element */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +126,7 @@ p {
     max-width: 150px;
 }
 
+/* Formatting the footer */
 .footer {
     padding: 30px;
     clear: both;
